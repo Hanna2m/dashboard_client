@@ -2,7 +2,7 @@ import { Refine, GitHubBanner, Authenticated
 ,AuthBindings} from '@refinedev/core';
 import { RefineKbar, RefineKbarProvider } from "@refinedev/kbar";
 
-    import { WelcomePage,AuthPage,ErrorComponent
+    import { WelcomePage,AuthPage
 ,notificationProvider
 ,RefineSnackbarProvider
 ,Layout

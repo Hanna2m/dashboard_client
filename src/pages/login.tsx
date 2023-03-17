@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
 import { useLogin } from "@refinedev/core";
 import { CredentialResponse } from "../interfaces/google";
-
+import {logo} from "../assets"
 // Todo: Update your Google Client ID here
 const GOOGLE_CLIENT_ID = "1041339102270-jlljcjl19jo1hkgf695em3ibr7q2m734.apps.googleusercontent.com";
 
